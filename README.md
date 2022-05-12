@@ -1,0 +1,2 @@
+# Unity_Exp05_SimplePlayerControllor
+简单的角色控制器，模型来自mixao，实现前后移动以及跳跃与简单的攻击
